@@ -1,0 +1,17 @@
+{
+    "name": "vadim/agregator",
+    "authors": [
+        {
+            "name": "voron121",
+            "email": "i-disegn@ya.ru"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": ["config.php"]
+    }
+}
